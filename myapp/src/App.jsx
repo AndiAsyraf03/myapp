@@ -17,6 +17,7 @@ export default function App() {
             <Link to="/profile" className="text-gray-300 hover:text-white transition-colors duration-300">Profile</Link>
             <Link to="/galeri" className="text-gray-300 hover:text-white transition-colors duration-300">Galeri</Link>
             <Link to="/contact" className="text-gray-300 hover:text-white transition-colors duration-300">Contact Me</Link>
+            <Link to="/registrasi" className="text-gray-300 hover:text-white transition-colors duration-300">Registrasi</Link>
           </div>
         </div>
       </nav>
