@@ -74,7 +74,7 @@ export default function Profile() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl font-bold text-gray-800">Perjalanan Kami</h2>
           <p className="mt-6 text-lg text-gray-600 leading-relaxed">
-            Didirikan pada tahun [Tahun Berdiri], perjalanan kami dimulai dari sebuah ide sederhana: untuk membuat perbedaan. Berawal dari tim kecil yang penuh semangat, kami telah bertumbuh menjadi institusi yang diakui atas kontribusinya dalam industri. Setiap pencapaian adalah bukti dari kerja keras, dedikasi, dan komitmen kami terhadap visi yang kami emban sejak hari pertama.
+            Didirikan pada tahun 2025, perjalanan kami dimulai dari sebuah ide sederhana: untuk membuat perbedaan. Berawal dari tim kecil yang penuh semangat, kami telah bertumbuh menjadi institusi yang diakui atas kontribusinya dalam industri. Setiap pencapaian adalah bukti dari kerja keras, dedikasi, dan komitmen kami terhadap visi yang kami emban sejak hari pertama.
           </p>
         </div>
       </section>

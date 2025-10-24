@@ -1,7 +1,6 @@
 import React from 'react';
 
-// Data untuk item galeri. Menggunakan array seperti ini membuat kode lebih rapi
-// dan mudah dikelola. Anda cukup mengubah isi array ini untuk mengganti gambar.
+
 const galleryItems = [
   {
     id: 1,
@@ -30,7 +29,7 @@ const galleryItems = [
   {
     id: 5,
     title: 'Perayaan Pencapaian',
-    imageUrl: 'https://images.unsplash.com/photo-1529119361813-9a512417567c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80',
     alt: 'Tim merayakan pencapaian bersama',
   },
   {
@@ -67,7 +66,7 @@ export default function Galeri() {
                 className="w-full h-80 object-cover transition-transform duration-500 ease-in-out group-hover:scale-110"
               />
               {/* Overlay yang muncul saat hover */}
-              <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-50 transition-all duration-500 ease-in-out">
+              <div className="absolute inset-0 bg-opacity-0 group-hover:bg-opacity-50 transition-all duration-500 ease-in-out">
                 <div className="flex items-end justify-start h-full p-6">
                   <h3 className="text-white text-xl font-bold opacity-0 group-hover:opacity-100 transition-opacity duration-500 transform translate-y-4 group-hover:translate-y-0">
                     {item.title}

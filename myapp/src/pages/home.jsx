@@ -81,7 +81,7 @@ export default function Home() {
           <div className="col-span-2 row-span-2 rounded-xl overflow-hidden"><img src="https://images.unsplash.com/photo-1517048676732-d65bc937f952" className="w-full h-full object-cover transition-transform duration-300 hover:scale-105" alt="Galeri 1"/></div>
           <div className="rounded-xl overflow-hidden"><img src="https://images.unsplash.com/photo-1552664730-d307ca884978" className="w-full h-full object-cover transition-transform duration-300 hover:scale-105" alt="Galeri 2"/></div>
           <div className="rounded-xl overflow-hidden"><img src="https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5" className="w-full h-full object-cover transition-transform duration-300 hover:scale-105" alt="Galeri 3"/></div>
-          <div className="col-span-2 rounded-xl overflow-hidden"><img src="https://images.unsplash.com/photo-1573496799582-d4b3e3e3518f" className="w-full h-full object-cover transition-transform duration-300 hover:scale-105" alt="Galeri 4"/></div>
+          <div className="col-span-2 rounded-xl overflow-hidden"><img src="https://images.unsplash.com/photo-1517048676732-d65bc937f952" className="w-full h-full object-cover transition-transform duration-300 hover:scale-105" alt="Galeri 4"/></div>
         </div>
         <div className="text-center mt-12">
            <Link to="/galeri" className="text-blue-600 font-semibold hover:underline">

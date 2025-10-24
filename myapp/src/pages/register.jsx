@@ -18,7 +18,7 @@ export default function Register() {
         {/* Kolom Kanan: Formulir */}
         <div className="p-8 md:p-12">
           <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900 text-center md:text-left">
-            Buat Akun Baru
+            Daftar Member Baru
           </h2>
           <p className="mt-4 text-gray-600 text-center md:text-left">
             Selamat datang! Silakan isi data diri Anda.
