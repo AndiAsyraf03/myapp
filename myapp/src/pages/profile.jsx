@@ -78,7 +78,6 @@ export default function Profile() {
           </p>
         </div>
       </section>
-
     </div>
   );
 }
